@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software distributed under the GPL.
+Git is a free software distributed under the GPL.
 Git ha a mutable index called atage.
 Git tracks changes of files.
 Creating a new branch is quick.
